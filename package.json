@@ -1,0 +1,16 @@
+{
+  "name": "ohnnyj.webp",
+  "title": "Brackets WebP",
+  "description": "Adds webp as supported image format.",
+  "version": "0.0.1",
+  "author": "John Smith <ohnnyj@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.44.0"
+  },
+  "homepage": "https://github.com/ohnnyj/brackets-webp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohnnyj/brackets-webp"
+  }
+}
